@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-jose[cryptography]
+python-multipart
+passlib[bcrypt]
+alembic
+pandas
+numpy
+scipy
+matplotlib
+requests
+tushare
+redis
+pymongo
